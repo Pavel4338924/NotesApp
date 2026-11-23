@@ -1,0 +1,27 @@
+# Built application files
+*.apk
+*.aab
+
+# Gradle
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc.)
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea/
+*.jar
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keystore files
+*.jks
+*.keystore
